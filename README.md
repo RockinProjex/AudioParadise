@@ -21,3 +21,5 @@ This project is in very early development. I can't remember the last time I used
 - lots more...
 
 That's all I have for now, check back later once the project is truely underway!
+
+As a final note, this project is licensed under the MIT license. If you wish to distribute this software please do!
